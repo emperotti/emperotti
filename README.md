@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="img/Linkedin_Banner.jpg" alt="Eduardo Perotti Banner" width="100%">
+  <a href="https://www.linkedin.com/in/emperotti/">
+    <img src="img/Linkedin_Banner.jpg" alt="Eduardo Perotti Banner" width="100%">
+  </a>
 </p>
 
 # About Me
