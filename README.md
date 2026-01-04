@@ -28,7 +28,7 @@ My focus is on bridging the gap between complex engineering challenges and busin
 ### 🧠 Soft Skills & Leadership
 
 - **Complex Problem Solving** & **Technical Leadership**
-- **Multilingual Communication:** Fluent in Portuguese, Intermediary Spanish, Advance English and Basic Japanese.
+- **Multilingual Communication:** Portuguese (Native), English (Advanced), Spanish (Intermediate), and Japanese (Basic).
 - **R&D & Innovation:** Bridging the gap between academia and industry.
 - **Cross-Functional Collaboration** & **Knowledge Transfer**.
 
