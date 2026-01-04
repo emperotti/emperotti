@@ -44,19 +44,18 @@ My focus is on bridging the gap between complex engineering challenges and busin
 <details>
   <summary>📊 GitHub Stats</summary>
   <br />
-
-  <div align="center">
-    <img src="https://github-readme-stats-j77m.vercel.app/api?username=emperotti&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Emperotti GitHub Stats" height="180em" />
-  </div>
-  
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-j77m.vercel.app/api?username=emperotti&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Emperotti GitHub Stats" height="180em" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-j77m.vercel.app/api/top-langs/?username=emperotti&layout=compact&langs_count=16&theme=dracula" alt="Top Languages" height="180em" />
+      </td>
+    </tr>
+  </table>
   <br />
-
-  <div align="center">
-    <img src="https://github-readme-stats-j77m.vercel.app/api/top-langs/?username=emperotti&layout=compact&langs_count=16&theme=dracula" alt="Top Languages" height="180em" />
-  </div>
-
-  <br />
-</details>
+</details>>
 
 ##
 
