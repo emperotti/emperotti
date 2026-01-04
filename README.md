@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/Linkedin_Banner.jpg" alt="Eduardo Perotti Banner" width="100%">
+</p>
+
 # About Me
 
 Hi! I'm Eduardo Perotti. 👋
