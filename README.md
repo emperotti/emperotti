@@ -52,11 +52,13 @@ My focus is on bridging the gap between complex engineering challenges and busin
 <details>
   <summary>🚀 Impact & Achievements</summary>
   <br>
+
   - **Internal Promotion at Blip (Unicorn):** Recognized for technical excellence and delivering critical integrations for global clients.
   - **ALM & DevOps Orchestration:** Managed Application Lifecycle Management using **Azure DevOps**, implementing CI/CD pipelines and enforcing quality with **SonarQube**.
   - **Award-Winning Research:** **Best Paper Award (Ontobras 2025)** for innovation in Ontology Engineering, applying academic rigor to real-world problems.
-  - **Technical Standardization:** Established documentation and knowledge bases, significantly reducing onboarding time for international clients.
+  - **Technical Standardization:** Established documentation and knowledge bases, reducing onboarding time for international clients.
   - **Full SDLC Management:** Autonomous delivery of high-performance web and chatbot solutions for freelance and enterprise projects.
+
 </details>
 
 ##
@@ -64,9 +66,10 @@ My focus is on bridging the gap between complex engineering challenges and busin
 <details>
   <summary>🧠 Soft Skills & Leadership</summary>
   <br>
+
   - **Complex Problem Solving** & **Technical Leadership**
   - **Multilingual Communication:** Portuguese (Native), English (Advanced), Spanish (Intermediate), and Japanese (Basic).
   - **R&D & Innovation:** Bridging the gap between academia and industry.
   - **Cross-Functional Collaboration** & **Knowledge Transfer**.
-</details>
 
+</details>
