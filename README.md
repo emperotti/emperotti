@@ -1,8 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=650&lines=Welcome+to+my+profile!;Humankind+cannot+gain+anything+without+first+giving+something+in+return." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile!;%E4%BD%95%E3%81%8B%E3%82%92%E5%BE%97%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E3%81%AF%E3%80%81%E5%90%8C%E7%AD%89%E3%81%AE%E4%BB%A3%E4%BE%A1%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%A0" alt="Typing SVG">
   </a>
 </div>
+
+#
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emperotti/">
