@@ -55,7 +55,7 @@ My focus is on bridging the gap between complex engineering challenges and busin
     </tr>
   </table>
   <br />
-</details>>
+</details>
 
 ##
 
