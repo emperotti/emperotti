@@ -1,5 +1,8 @@
-# Hi! I'm Perotti. 👋
+# About Me
 
+Hi! I'm Eduardo Perotti. 👋
+
+> Computer Engineer | M.Sc. Candidate in Ontology
 
 ## Objectives
 
