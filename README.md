@@ -6,6 +6,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Emperotti GitHub Stats" src="https://github-readme-stats-j77m.vercel.app/api?username=emperotti&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Emperotti GitHub Stats" src="https://github-readme-stats-j77m.vercel.app/api?username=emperotti&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <img height="180em" src="https://github-readme-stats-j77m.vercel.app/api/top-langs/?username=emperotti&layout=compact&langs_count=16&theme=dracula"/>
 </details>
