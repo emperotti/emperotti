@@ -6,7 +6,8 @@
 
 # Hi! I'm Eduardo Perotti. 👋
 
-> **Computer Engineer | M.Sc. Candidate in Ontology | Software Developer at Blip**
+> ** Computer Engineer at UNIFEI (Federal University of Itajubá) | M.Sc. Candidate in Computer Science and Technology** at UNIFEI (Federal University of Itajubá)
+> **Focus:** Computational Mathematics | **Research Area:** Ontology
 
 🎯 **Computer Engineer** with 3+ years of experience developing scalable software solutions and conversational interfaces. I combine strong technical expertise in **C# (.NET)**, **Node.js**, and **Cloud Architecture** with a solid academic background in **Computational Mathematics and Ontology**. 
 
