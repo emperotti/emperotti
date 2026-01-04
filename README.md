@@ -17,7 +17,7 @@ My focus is on bridging the gap between complex engineering challenges and busin
 
 ### 🚀 Impact & Achievements
 
-- **Internal Promotion @ Blip (Unicorn):** Recognized for technical excellence and delivering critical integrations for global clients.
+- **Internal Promotion at Blip (Unicorn):** Recognized for technical excellence and delivering critical integrations for global clients.
 - **ALM & DevOps Orchestration:** Managed Application Lifecycle Management using **Azure DevOps**, implementing CI/CD pipelines and enforcing quality with **SonarQube**.
 - **Award-Winning Research:** **Best Paper Award (Ontobras 2025)** for innovation in Ontology Engineering, applying academic rigor to real-world problems.
 - **Technical Standardization:** Established documentation and knowledge bases, significantly reducing onboarding time for international clients.
