@@ -1,10 +1,16 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=650&lines=Welcome+to+my+profile!;Humankind+cannot+gain+anything+without+first+giving+something+in+return." alt="Typing SVG">
+  </a>
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/emperotti/">
     <img src="img/Rounded_Linkedin_Banner.png" alt="Eduardo Perotti Banner" width="100%">
   </a>
 </p>
 
-# Hi! I'm Eduardo Perotti. 👋
+# About me
 
 > Computer Engineer at UNIFEI (Federal University of Itajubá) | M.Sc. Candidate in Computer Science and Technology at UNIFEI (Federal University of Itajubá)
 > Focus: Computational Mathematics | Research Area: Ontology
@@ -15,7 +21,7 @@ My focus is on bridging the gap between complex engineering challenges and busin
 
 ---
 
-### Connect with me
+## Connect with me
 
 <div> 
   <a href="https://www.youtube.com/channel/UCpO-ALmfxiciluCvZ4Hg2Ew" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -28,7 +34,7 @@ My focus is on bridging the gap between complex engineering challenges and busin
 
 ##
 
-#### 💻 Languages
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
