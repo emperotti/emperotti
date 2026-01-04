@@ -33,11 +33,6 @@ My focus is on bridging the gap between complex engineering challenges and busin
 - **Cross-Functional Collaboration** & **Knowledge Transfer**.
 
 ---
-## Objectives
-
-- 🔭 I’m currently working on Conversational AI
-- 🌱 I’m currently learning Ontology
-- 😄 Pronouns: he/him
 
 ### Connect with me
 
