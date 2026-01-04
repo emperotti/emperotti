@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/emperotti/">
-    <img src="img/Linkedin_Banner.jpg" alt="Eduardo Perotti Banner" width="100%">
+    <img src="img/Rounded_Linkedin_Banner.png" alt="Eduardo Perotti Banner" width="100%">
   </a>
 </p>
 
