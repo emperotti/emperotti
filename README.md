@@ -33,6 +33,7 @@ My focus is on bridging the gap between complex engineering challenges and busin
   <a href = "mailto:emperotti2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emperotti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQxNiAwSDcyQzMyLjIgMCAwIDMyLjIgMCA3MnYzNjhjMCAzOS44IDMyLjIgNzIgNzIgNzJoMzQ0YzM5LjggMCA3Mi0zMi4yIDcyLTcyVjcyYzAtMzkuOC0zMi4yLTcyLTcyLTcyek0xMjQgNDE2aC02NFYyMDhoNjR2MjA4ek05NCAxNzZjLTIwLjQgMC0zNy0xNi42LTM3LTM3czE2LjYtMzcgMzctMzcgMzcgMTYuNiAzNyAzNy0xNi42IDM3LTM3IDM3em0yODAgMjQwaC02NFYzMDhjMC0zNS4zLTI4LjctNjQtNjQtNjRzLTY0IDI4LjctNjQgNjR2MTA0aC02NFYyMDhoNjR2MjYuOGMxMi4xLTE4LjYgMzEuNi0zMC44IDU2LTMwLjggNjEuOSAwIDExMiA1MC4xIDExMiAxMTJ2MTA4eiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
 <a href="https://lattes.cnpq.br/6017917173032283" target="_blank"><img src="https://img.shields.io/badge/LATTES-005CA9?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Lattes"></a>
+  <a href="https://orcid.org/0009-0008-7755-1501" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 </div>
 
 ##
